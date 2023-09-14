@@ -1,6 +1,3 @@
-//r.sh
-//this source belong to Nguyen Duy Tuan, tks!
-//say hi to everyone see this source code...
 pm2 delete all
 
 
